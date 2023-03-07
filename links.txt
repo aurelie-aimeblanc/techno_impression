@@ -1,0 +1,38 @@
+Links zu den Clubs
+
+https://www.else.tv/
+https://sisyphos-berlin.net/
+http://aboutparty.net/
+
+About me
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1418796835&color=%23ff00d6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/oresan" title="OreSan" target="_blank" style="color: #cccccc; text-decoration: none;">OreSan</a> · <a href="https://soundcloud.com/oresan/das-erste-mal-ist-immer-schon" title="Das erste Mal ist immer schön" target="_blank" style="color: #cccccc; text-decoration: none;">Das erste Mal ist immer schön</a></div>
+
+DJ
+Fjaak - Spandau Kollektiv
+FJAAK wurde 2009 von den aus dem Berliner Bezirk Spandau stammenden Felix Wagner, Johannes Wagner, Aaron Röbig und Kevin Kozicki gegründet. In ihrer Kindheit spielten alle von ihnen klassische Instrumente wie Klavier oder Gitarre. Als sie von einem Bekannten das Musikprogramm Ableton Live bekamen, begannen sie selbst mit der Musikproduktion herumzuexperimentieren. Schnell merkten sie jedoch, dass ihnen die hardwaregebundene Musikproduktion größere Freude bereitete, weshalb sie früh begannen, mit Samplern und Drumcomputern zu arbeiten.[1] Sie legten in der Anfangszeit häufig bei privaten Partys und bei nichtangemeldeten Raves (teilweise auch durch sie selbst veranstaltet) in Spandau und der näheren Umgebung auf.[2]
+
+Johannes Wagner stieg während der Lernphase für das Abitur aus der Gruppe aus.[3] Er ist jedoch noch immer DJ und legt als J.Manuel mit dem Format „Werk“ regelmäßig im Techno-Club ://about blank in Berlin-Friedrichshain auf.[4]
+
+Nach dem bestandenen Abitur begann FJAAK erstmals selbst produzierte Musik zu veröffentlichen. Ihre ersten Werke erschienen über Baalsaal Music, dem damaligen Label von Fritz Kalkbrenner. Sie zogen gemeinsam in eine Wohngemeinschaft in Berlin-Prenzlauer Berg, in die sie ein Tonstudio integrierten. Gleichzeitig begannen Aaron Röbig und Felix Wagner ein Tonmeisterstudium in Berlin. 2013 wurden sie zum ersten Mal für das Berghain gebucht, was letztendlich den Startschuss für ihre Karriere darstellte. Im darauffolgenden Sommer wurden sie vom Berliner Techno-Duo Modeselektor bei deren Label 50 Weapons unter Vertrag genommen. 2017 erschien das Debütalbum FJAAK bei Modeselektors Label Monkeytown, da das Sublabel 50 Weapons mittlerweile aufgelöst wurde. Es folgten größere Club- und Festivalauftritte. Im Januar 2019 gaben FJAAK bekannt, dass Kevin Kozicki nicht mehr Teil der Gruppe ist, welche seither als Duo fungiert.[5]
+
+2019 gründete das Duo FJAAK das Label Spandau20[6] und veröffentlichte weitere Singles.[7] Unter weltweitem Einfluss der Corona-Pandemie in 2020 & 2021 begannen FJAAK mit der Veröffentlichung der Charity Serie (SYS = Support Your Scene), wovon sie drei Editionen veröffentlichten. Durch die Einnahmen der Plattenverkäufe und digitalen Einnahmen wurden bis dato ausgewählte Clubs weltweit finanziell unterstützt.[8]
+
+
+Marlon Hoffstadt - Trance King
+
+
+
+
+Eris Drew - Tech House Queen
+Es dauerte, bis die australisch-US-amerikanische Produzentin Eris Drew ihr erstes Album veröffentlichte, dabei bewegt sich die 46-Jährige seit Mitte der 90er-Jahre als DJ in der elektronischen Clubmusikszene. Im Herbst erschien nun mit "Quivering In Time" ihr Debütalbum und dieses strotzt nur so von Energie: Breakbeats treffen auf House und allerlei psychedelische Experimente. Aufgenommen hat die selbsternannte "High Priestess Of The Motherbeat" das Album aber nicht etwa in einer pulsierenden Großstadt, sondern zu Hause in einem abgelegenen Waldhäuschen in New Hampshire. Ebenfalls dort wohnt ihre Lebenspartnerin, die Produzentin Octo Octa. Die beiden Transfrauen setzen sich für die LGBTQ-Szene ein und betreiben zusammen das Electronica-Label T4T LUV NRG. Eris Drews Netzwerk erstreckt sich dabei von den USA bis nach Europa.
+
+ <!-- <img
+        src="./Bilder/Fjaak_hor.png"
+        alt="DJ FJAAK Kollektiv Spandau20"
+        width="900"
+        height="300"
+      /> -->
+      <!-- <i class="fa-brands fa-youtube"></i> -->
+
+      <!-- <a href="https://www.youtube.com/watch?v=LwpF8CAcGQ8">
+        <img alt="FJAAK" target="_blank"src="./Bilder/Fjaak_hor.png" width="900" height="300"> -->

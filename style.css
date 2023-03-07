@@ -1,0 +1,71 @@
+.navigation {
+  flex-direction: row;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-family: "Bungee", display;
+  border-width: 5px;
+  border: 10px;
+  color: rgb(138, 43, 226);
+}
+
+#about-id {
+  padding-top: 50px;
+}
+
+/* --Text--Paragraph */
+section {
+  border: 3px solid rgb(138, 43, 226);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  width: 950px;
+  justify-content: center;
+}
+
+/* FONT FAMILY */
+.g-font-serif {
+  font-family: "Merriweather", serif;
+}
+
+.g-font-sans-serif {
+  font-family: "Roboto", sans-serif;
+}
+
+.g-font-serif {
+  font-family: "Bungee", display;
+}
+
+/* HEADING */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(138, 43, 226);
+}
+
+li a {
+  display: flex;
+  color: rgb(224, 195, 195);
+  text-align: center;
+  padding: 14px 16px;
+  float: left;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* CLUB HYPERLINKS */
+.club_section {
+  font-family: "Bungee", display;
+  margin: 15px;
+}
+
+.club_section a {
+  text-decoration: none;
+  color: blueviolet;
+}
